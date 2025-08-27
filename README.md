@@ -1,7 +1,7 @@
 # LineFollowerRobot
 
->>>>> PT/BR\n
+>>>>> PT/BR<br>
 Robo seguidor de linha em arduino utilizando a linguagem C++ feito durante projeto de extensão na faculdade na disciplina 'Programação em Microcontroladores'.
 
->>>>> EN\n
+>>>>> EN<br>
 Line follower robot in Arduino using the C++ language made during an extension project at the college in the subject 'Programming in Microcontrollers'.
